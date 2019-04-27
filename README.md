@@ -1,6 +1,6 @@
 
 # Intro
-I use python3 in my submission. My script aggregates unique prescribers and total costs per drug separately in a dict of sets and a simple dict of integers respectively. The length of the sets of unique prescribers is taken, and the aggregatted information is written to a text file line by line.
+I use python3 in my submission. My script aggregates unique prescribers and total costs per drug separately in a dict of sets and a simple dict of integers respectively. The length of the sets of unique prescribers is taken, and the aggregatted information is written to a text file line by line. I wrote this script in only a few hours; as a result it is a work in progress.
 
 # Key Notes
 Here are important notes about my code:
@@ -16,7 +16,7 @@ Here are some key assumptions made by my code. I assume that:
 1. there are no \n's within data cells in this data
 2. the test data will have same number, names, and order of columns
 3. there is a header row
-4. the script is run from with the current directory set to the root of chalenge directory structure
+4. the script is run from with the current directory set to the root of challenge directory structure
 5. any data cells containing commas are quoted using the quote char ""
 
 
