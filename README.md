@@ -1,6 +1,8 @@
+This repo is a submission to the Insight Data Engineering Coding Challenge. Here is the link to the challenge description and instructions: [https://github.com/InsightDataScience/pharmacy_counting](https://github.com/InsightDataScience/pharmacy_counting)
 
 # Intro
 I use python3 in my submission. My script aggregates unique prescribers and total costs per drug separately in a dict of sets and a simple dict of integers respectively. The length of the sets of unique prescribers is taken, and the aggregatted information is written to a text file line by line. I wrote this script in only a few hours; as a result it is a work in progress.
+
 
 # Key Notes
 Here are important notes about my code:
